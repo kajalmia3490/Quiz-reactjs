@@ -1,4 +1,4 @@
-# Project run with browser
+# Project run with command
 * cd directoryName
 * npm install
 * npm run start
